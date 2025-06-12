@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this, please cite it as below."
+authors:
+- family-names: "Tandogan"
+  given-names: "Tugba"
+title: "Aircraft_Classification"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2025-05-19
+url: "https://github.com/tb-tan/Aircraft_Classification"
